@@ -1,6 +1,9 @@
 # OrmaSample
 sample for Orma
 
+# キャプチャ
+
+<img src="https://user-images.githubusercontent.com/16476224/106282087-7221fd00-6283-11eb-952e-ccbb74168119.png" width=320 />
 
 # 動作確認エビデンス
 
