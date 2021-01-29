@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OrmaSample</string>
+    <string name="title_home">simple CRUD</string>
+    <string name="title_dashboard">RxJava CRUD</string>
+    <string name="title_notifications">RecyclerView</string>
+    <string name="label_title">TODOのtitleを入力してください(必須)</string>
+    <string name="label_content">TODOのmemoを入力してください(任意)</string>
+    <string name="simple_crud_create">Simple CRUD: create</string>
+    <string name="simple_crud_read">Simple CRUD: read</string>
+    <string name="simple_crud_update">Simple CRUD: update</string>
+    <string name="simple_crud_delete">Simple CRUD: delete</string>
+    <string name="label_where">where句(todo.title)を入力してください</string>
+    <string name="button_enable_transaction_sync">transactionありの5件レコード追加</string>
+    <string name="button_no_transaction_sync">transactionなしの5件レコード追加</string>
+</resources>
